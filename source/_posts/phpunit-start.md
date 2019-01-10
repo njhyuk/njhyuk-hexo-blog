@@ -24,7 +24,10 @@ title: 유닛 테스트를 시작 해보자
 
 ## 테스트 케이스 생성
 새로운 테스트 케이스를 생성하려면 make:test 아티즌 명령어를 입력 합니다.
+
+```
 php artisan make:test UserTest
+```
 
 ## 코드 작성
 
