@@ -66,11 +66,11 @@ class UserTest extends TestCase
 
 테스트에 성공하면 다음과 같은 결과를 반환합니다.
 
-![success](success.png)
+{% asset_img success.png [success] %}
 
 그렇다면 테스트에 실패하면 어떻게 표현될까요? 다음과 같이 실패한 코드와 결과가 화면에 출력됩니다.
 
-![fail](fail.png)
+{% asset_img fail.png [fail] %}
 
 ## 마지막으로..
 오늘은 간단한 예제를 통해 단위테스트의 개념과 테스트 케이스를 생성하고 실행하는 법에 대해 알아보았습니다. 실제로 활용하기에 오늘의 내용으로는 아직 부족하지만, 소프트웨어 테스트를 위한 자동화에 대해 고민해 보게 된 시간 이였으면 좋겠습니다.
