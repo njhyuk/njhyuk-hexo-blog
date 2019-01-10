@@ -6,8 +6,7 @@ tags:
 
 
 안녕하세요.
-오늘은 지난 시간에 포스팅 [유닛 테스트를 시작해보자](https://blog.naver.com/dndlab/221363581029)에 이어,
-PHPUnit의 많이 사용하는 메소드 몇가지를 알아보려고 합니다.
+오늘은 지난 시간에 포스팅한 [유닛 테스트를 시작해보자](https://njhyuk.github.io/2019/01/10/phpunit-start/)에 이어, PHPUnit의 많이 사용하는 메소드 몇가지를 알아 보려고 합니다.
 
 ## assertTrue
 전달한 $condition 이 true 인지 체크 합니다.
@@ -87,8 +86,7 @@ assertNotEquals() 메소드는 이와 정반대의 역할을 수행합니다.
 
 ## assertSame
 테스트 결과로 예측한 $expected가 $actual과 같은 결과값인지 체크 합니다.
-
-*assertEquals 는 두 값이 같은지를 비교하나, assertSame은 비교할 두 대상이 같은 주소값인지 비교합니다.*
+**assertEquals 는 두 값이 같은지를 비교하나, assertSame은 비교할 두 대상이 같은 주소값인지 비교합니다.**
 
 ```
 assertSame(mixed $expected, mixed $actual[, string $message = ''])
