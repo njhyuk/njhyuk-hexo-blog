@@ -1,5 +1,5 @@
 ---
-title: Form에서 enctype을 왜 지정해야 할까?
+title: Form 파일전송을 위해 enctype을 왜 지정해야 할까?
 date: 2019-05-24 13:57:02
 tags:
 ---
