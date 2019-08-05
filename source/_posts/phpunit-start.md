@@ -1,6 +1,8 @@
 ---
-title: 유닛 테스트를 시작 해보자
+title: PHPUnit 1부 - 유닛 테스트를 시작 해보자
 ---
+
+{% asset_img logo.png source : https://codeburst.io/writing-php-unit-testing-friendly-code-5ef9a8a49da1 %}
 
 어플리케이션은 매우 방대하게 이루어져 있습니다.
 보기에는 간단한 기능을 추가 하더라도, 사용자 테스트를 진행하게 된다면 사용자는 개발자가 예상한 사용자의 접근 플로우와는 다르게 전혀 예상치 못한 방법으로 접근 하게 되고 오류가 발생하기 마련입니다.

@@ -3,9 +3,9 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Njhyuk's Dev Note
-subtitle: Develop Note
-description: Web Development
+title: JunHyuk's Dev Note
+subtitle: 노준혁의 개발노트
+description: Software Engineer
 keywords: back-end, developer
 author: 노준혁
 language: jo
@@ -73,7 +73,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: overdose
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html

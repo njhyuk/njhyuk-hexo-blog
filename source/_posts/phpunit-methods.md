@@ -1,9 +1,10 @@
 ---
-title: PHPUnit 메소드 알아보기
+title: PHPUnit 2부 - 메소드 알아보기
 date: 2019-01-10 14:32:02
 tags:
 ---
 
+{% asset_img logo.png source : https://codeburst.io/writing-php-unit-testing-friendly-code-5ef9a8a49da1 %}
 
 안녕하세요.
 오늘은 지난 시간에 포스팅한 [유닛 테스트를 시작해보자](https://njhyuk.github.io/2019/01/10/phpunit-start/)에 이어, PHPUnit의 많이 사용하는 메소드 몇가지를 알아 보려고 합니다.
